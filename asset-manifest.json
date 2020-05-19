@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.13a3cd1a.chunk.css",
-    "main.js": "/static/js/main.6bcc6263.chunk.js",
-    "main.js.map": "/static/js/main.6bcc6263.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a3acf61.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a3acf61.js.map",
-    "static/js/2.bb7bdf50.chunk.js": "/static/js/2.bb7bdf50.chunk.js",
-    "static/js/2.bb7bdf50.chunk.js.map": "/static/js/2.bb7bdf50.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.79b2dda74c7cffced94a307774e63687.js": "/precache-manifest.79b2dda74c7cffced94a307774e63687.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.13a3cd1a.chunk.css.map": "/static/css/main.13a3cd1a.chunk.css.map",
-    "static/js/2.bb7bdf50.chunk.js.LICENSE.txt": "/static/js/2.bb7bdf50.chunk.js.LICENSE.txt",
-    "static/media/awesome-video.mp4": "/static/media/awesome-video.65be8da3.mp4",
-    "static/media/slider-image-1.png": "/static/media/slider-image-1.ca63b98a.png",
-    "static/media/slider-image-2.jpg": "/static/media/slider-image-2.ecd10a32.jpg",
-    "static/media/slider-image-3.png": "/static/media/slider-image-3.828976ba.png"
+    "main.css": "/myinfo/static/css/main.13a3cd1a.chunk.css",
+    "main.js": "/myinfo/static/js/main.0a41ec3d.chunk.js",
+    "main.js.map": "/myinfo/static/js/main.0a41ec3d.chunk.js.map",
+    "runtime-main.js": "/myinfo/static/js/runtime-main.8598c9c7.js",
+    "runtime-main.js.map": "/myinfo/static/js/runtime-main.8598c9c7.js.map",
+    "static/js/2.bb7bdf50.chunk.js": "/myinfo/static/js/2.bb7bdf50.chunk.js",
+    "static/js/2.bb7bdf50.chunk.js.map": "/myinfo/static/js/2.bb7bdf50.chunk.js.map",
+    "index.html": "/myinfo/index.html",
+    "precache-manifest.daa6a11c340fff7d65488a8dbeb1b6a6.js": "/myinfo/precache-manifest.daa6a11c340fff7d65488a8dbeb1b6a6.js",
+    "service-worker.js": "/myinfo/service-worker.js",
+    "static/css/main.13a3cd1a.chunk.css.map": "/myinfo/static/css/main.13a3cd1a.chunk.css.map",
+    "static/js/2.bb7bdf50.chunk.js.LICENSE.txt": "/myinfo/static/js/2.bb7bdf50.chunk.js.LICENSE.txt",
+    "static/media/awesome-video.mp4": "/myinfo/static/media/awesome-video.65be8da3.mp4",
+    "static/media/slider-image-1.png": "/myinfo/static/media/slider-image-1.ca63b98a.png",
+    "static/media/slider-image-2.jpg": "/myinfo/static/media/slider-image-2.ecd10a32.jpg",
+    "static/media/slider-image-3.png": "/myinfo/static/media/slider-image-3.828976ba.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a3acf61.js",
+    "static/js/runtime-main.8598c9c7.js",
     "static/js/2.bb7bdf50.chunk.js",
     "static/css/main.13a3cd1a.chunk.css",
-    "static/js/main.6bcc6263.chunk.js"
+    "static/js/main.0a41ec3d.chunk.js"
   ]
 }
